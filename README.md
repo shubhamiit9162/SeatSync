@@ -18,7 +18,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **Frontend:** [https://seatsync-theater.netlify.app](https://seatsync-theater.netlify.app)  
+🔗 **Frontend:** [https://seatsync.netlify.app/](https://seatsync.netlify.app/)  
 🔗 **Backend API:** [https://seatsync-api.render.com](https://seatsync-api.render.com)  
 📊 **Performance:** 99.8% uptime | 500+ concurrent users | 95% user engagement
 

@@ -460,7 +460,7 @@ We welcome contributions from the community! Please follow these guidelines:
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/shubhamkgupta.png" width="100px;" alt="Shubham Kumar Gupta"/>
+        <img src="https://github.com/shubhamiit9162.png" width="100px;" alt="Shubham Kumar Gupta"/>
         <br />
         <sub><b>Shubham Kumar Gupta</b></sub>
         <br />
